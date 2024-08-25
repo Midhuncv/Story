@@ -1,0 +1,12 @@
+[1mdiff --git a/Chapter3.txt b/Chapter3.txt[m
+[1mindex 8ae2dd2..27b41f4 100644[m
+[1m--- a/Chapter3.txt[m
+[1m+++ b/Chapter3.txt[m
+[36m@@ -1 +1,4 @@[m
+[31m-It was a the spring of hope,It was the winter of despair[m
+\ No newline at end of file[m
+[32m+[m[32mIt was a the spring of hope,It was the winter of despair[m
+[32m+[m[32mjhdhfiwheewibfeig[m
+[32m+[m[32mlngffegfubr[m
+[32m+[m[32mnfigibubgierugdfnbidnivbfnbigbiernsojsoferogh[m
+\ No newline at end of file[m
